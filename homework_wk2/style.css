@@ -1,0 +1,54 @@
+.navbar-brand {
+    background: #35B5AC;
+    color: white !important;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+h1{
+    color: #35B5AC !important;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+
+}
+.card-img-top {
+    max-width: 200px;
+    margin-right: 20px;
+  
+
+}
+.card {
+    margin-left: 85pt;
+}
+
+.fourimages {
+    max-width: 350px;
+    max-height: 350px;
+
+}
+
+/* Portfolio images */
+#bottomleft {
+    margin-top: 25px;
+}
+#bottomright {
+    float: right;
+    margin-top: -270px;
+}
+
+/* Contact Us */
+#buttoncolor {
+    background-color: #35B5AC !important;
+    border: none;
+}
+.form-control {
+   max-width: 600px;
+
+}
+#message {
+    height: 150px;
+}
+
+h1 {
+    padding-top: 40pt;
+}
